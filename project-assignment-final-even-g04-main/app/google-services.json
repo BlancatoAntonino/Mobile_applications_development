@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "687930259487",
+    "project_id": "lab5-even-g04",
+    "storage_bucket": "lab5-even-g04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687930259487:android:6603fb098e56c83b08fd2a",
+        "android_client_info": {
+          "package_name": "it.polito.mad.cookbookcommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687930259487-3p44jfg3v9tlr96gvgkk70eac24cjftc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.cookbookcommunity",
+            "certificate_hash": "c376bcfff73d062fdc45698ae592798c82cb833d"
+          }
+        },
+        {
+          "client_id": "687930259487-bgtuvvp6ic93lhlhnl1o21re6vloblg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.cookbookcommunity",
+            "certificate_hash": "63ed9d1910ab556a22d3648b66c7284bd331819c"
+          }
+        },
+        {
+          "client_id": "687930259487-dba38jre69cui8ijh4jlt0494sbmjb7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.cookbookcommunity",
+            "certificate_hash": "34757b1ebe1fd1efcbd8034e2738a7b7756f6af9"
+          }
+        },
+        {
+          "client_id": "687930259487-de94j5daas957vjek04jnj5qhmq3cddc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.cookbookcommunity",
+            "certificate_hash": "e14b7a01fd20902d05dbf3d2d37e15059078f545"
+          }
+        },
+        {
+          "client_id": "687930259487-fcnrbej8810bgq7rp5krb4j3nmonkffq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.cookbookcommunity",
+            "certificate_hash": "f0acdbaeceb3f2030e48fa3de1e4daa490a2293c"
+          }
+        },
+        {
+          "client_id": "687930259487-v6i1k1a2p4m7636r7rjs21bv5na1poch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwZY45QpdhBy5Ro26Bw9LGbESh5Kpi3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687930259487-v6i1k1a2p4m7636r7rjs21bv5na1poch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
